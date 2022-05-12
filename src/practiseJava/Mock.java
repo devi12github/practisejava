@@ -18,6 +18,7 @@ public class Mock {
 	System.out.println(color);
 	color.add(0,"black");
 	color.add(4, "rose");
+	color.add(5,"pink");
 	System.out.println(color);
 	
 	String element = color.get(0);
